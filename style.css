@@ -7,10 +7,10 @@ body{
 .game{
     background-color: rgb(172, 172, 172);
     position: absolute;
-    bottom: 300px;
+    bottom: 100px;
     top: 100px;
-    right: 400px;
-    left: 400px;
+    right: 300px;
+    left: 300px;
     padding: 30px;
     border-radius: 20px;
     box-shadow: 10px 10px 10px black;
@@ -25,7 +25,7 @@ body{
 }
 
 #szar{
-    padding-top: 800px;
+    padding-top: 690px;
     left: 50%;
-    font-size: 64pt;
+    font-size: 48pt;
 }
